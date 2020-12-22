@@ -63,3 +63,5 @@ TC_005_ValidateTitleElementEnabledVisible
     Element Should Be Visible    id=username    
     Close Browser
 
+TC_006_Display_Simple_Text
+    Log To Console    Anna gitHub    
